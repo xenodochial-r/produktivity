@@ -30,6 +30,12 @@ onenote
 
 
 
+
+
+# Setup Manual ( to be talked about)
+
+## Setup Meeting App for Teck Guys
+
 ### text for improve Meeting apps etc
 
 To create booking pages similar to Doodle using Nextcloud, you can leverage various open-source apps that integrate seamlessly with Nextcloud. Here are some of the recommended apps and plugins:
