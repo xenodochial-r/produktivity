@@ -55,6 +55,8 @@ In the video "Best ONENOTE ALTERNATIVES for Linux, Windows and MacOS," several n
 
 These applications offer a range of features catering to different note-taking preferences and requirements.
 
+Best open Source Alternative : https://github.com/AppFlowy-IO/appflowy
+
 
 onenote
 - https://onenotetemplates.com/transforming-your-work-flow-with-onenotes-to-do-lists/
