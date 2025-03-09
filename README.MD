@@ -1,56 +1,55 @@
 # productivity general
 
 
-## usefull links
-best note app
-- https://www.youtube.com/watch?v=Ly10LxvzNGg&t=29s
+## overview of note apps ( open-source )
+best note apps explained in youtube video: https://www.youtube.com/watch?v=Ly10LxvzNGg&t=29s
 ### List of those applications:
 In the video "Best ONENOTE ALTERNATIVES for Linux, Windows and MacOS," several note-taking applications are discussed as alternatives to Microsoft OneNote. Here's a list of those applications:
 
-    Joplin: An open-source note-taking and to-do application with synchronization capabilities. It supports Markdown and is available on multiple platforms, including Linux, Windows, macOS, Android, and iOS.
+- Joplin: An open-source note-taking and to-do application with synchronization capabilities. It supports Markdown and is available on multiple platforms, including Linux, Windows, macOS, Android, and iOS.
     Wikipedia
 
-    Simplenote: A straightforward, open-source note-taking app that emphasizes simplicity and speed. It offers cross-platform support and real-time synchronization.
+- Simplenote: A straightforward, open-source note-taking app that emphasizes simplicity and speed. It offers cross-platform support and real-time synchronization.
 
-    Standard Notes: An open-source, encrypted note-taking app that focuses on privacy and security. It provides cross-platform availability and offers various extensions for enhanced functionality.
+- Standard Notes: An open-source, encrypted note-taking app that focuses on privacy and security. It provides cross-platform availability and offers various extensions for enhanced functionality.
 
-    Zim: A graphical text editor used to maintain a collection of wiki pages. It allows for easy linking between pages and is suitable for managing notes and documentation.
+- Zim: A graphical text editor used to maintain a collection of wiki pages. It allows for easy linking between pages and is suitable for managing notes and documentation.
 
-    CherryTree: A hierarchical note-taking application featuring rich text and syntax highlighting. It supports storing data in a single XML or SQLite file.
+- CherryTree: A hierarchical note-taking application featuring rich text and syntax highlighting. It supports storing data in a single XML or SQLite file.
 
-    Turtl: An open-source, secure, and encrypted Evernote alternative. It allows users to take notes, save bookmarks, and store documents with a focus on privacy.
+- Turtl: An open-source, secure, and encrypted Evernote alternative. It allows users to take notes, save bookmarks, and store documents with a focus on privacy.
 
-    Laverna: A web-based, open-source note-taking application with Markdown editing and encryption support. It emphasizes simplicity and user privacy.
+- Laverna: A web-based, open-source note-taking application with Markdown editing and encryption support. It emphasizes simplicity and user privacy.
 
-    Boostnote: An open-source note-taking app designed for programmers. It supports Markdown and snippet notes, making it suitable for code documentation.
+- Boostnote: An open-source note-taking app designed for programmers. It supports Markdown and snippet notes, making it suitable for code documentation.
 
-    QOwnNotes: An open-source plain-text file notepad with Markdown support and to-do list manager. It integrates with ownCloud and Nextcloud for synchronization.
+- QOwnNotes: An open-source plain-text file notepad with Markdown support and to-do list manager. It integrates with ownCloud and Nextcloud for synchronization.
 
-    Notion: A versatile note-taking and productivity application that combines notes, tasks, databases, and calendars. It offers cross-platform support and collaboration features.
+- Notion: A versatile note-taking and productivity application that combines notes, tasks, databases, and calendars. It offers cross-platform support and collaboration features.
     Wikipedia
 
-    Evernote: A widely-used note-taking app that allows users to capture, organize, and share notes across devices. It offers features like web clipping, document scanning, and collaboration tools.
+- Evernote: A widely-used note-taking app that allows users to capture, organize, and share notes across devices. It offers features like web clipping, document scanning, and collaboration tools.
 
-    Google Keep: A simple note-taking service developed by Google. It allows users to create notes, lists, and reminders, with synchronization across devices.
+- Google Keep: A simple note-taking service developed by Google. It allows users to create notes, lists, and reminders, with synchronization across devices.
     Wikipedia
 
-    Apple Notes: A note-taking app developed by Apple, available on macOS and iOS devices. It offers features like rich text formatting, attachments, and synchronization through iCloud.
+- Apple Notes: A note-taking app developed by Apple, available on macOS and iOS devices. It offers features like rich text formatting, attachments, and synchronization through iCloud.
 
-    Obsidian: A personal knowledge base and note-taking software that operates on Markdown files. It allows users to create internal links between notes and visualize connections as a graph.
+- Obsidian: A personal knowledge base and note-taking software that operates on Markdown files. It allows users to create internal links between notes and visualize connections as a graph.
     Wikipedia
 
-    Bear: A note-taking app for macOS and iOS that offers Markdown support, rich text formatting, and tagging for organization. It emphasizes a clean and intuitive interface.
+- Bear: A note-taking app for macOS and iOS that offers Markdown support, rich text formatting, and tagging for organization. It emphasizes a clean and intuitive interface.
 
-    Notability: A note-taking app for iOS and macOS that supports handwriting, typing, and audio recording. It's popular among students and professionals for its versatility.
+- Notability: A note-taking app for iOS and macOS that supports handwriting, typing, and audio recording. It's popular among students and professionals for its versatility.
 
-    GoodNotes: A digital note-taking app for iOS and macOS that focuses on handwriting and annotation. It offers features like PDF annotation, document organization, and synchronization.
+- GoodNotes: A digital note-taking app for iOS and macOS that focuses on handwriting and annotation. It offers features like PDF annotation, document organization, and synchronization.
 
-    Zoho Notebook: A free note-taking app that allows users to create multimedia notes, organize them into notebooks, and synchronize across devices. It offers a clean interface and various customization options.
+- Zoho Notebook: A free note-taking app that allows users to create multimedia notes, organize them into notebooks, and synchronize across devices. It offers a clean interface and various customization options.
 
-    Nimbus Note: A note-taking app designed by Nimbus Web Inc. It allows users to create notes with document or photo attachments, build to-do lists, and synchronize them across devices.
+- Nimbus Note: A note-taking app designed by Nimbus Web Inc. It allows users to create notes with document or photo attachments, build to-do lists, and synchronize them across devices.
     Wikipedia
 
-    TagSpaces: An open-source data manager and file navigator that helps organize files on local drives by adding tags to files. It provides a consistent user interface across different platforms.
+- TagSpaces: An open-source data manager and file navigator that helps organize files on local drives by adding tags to files. It provides a consistent user interface across different platforms.
     Wikipedia
 
 These applications offer a range of features catering to different note-taking preferences and requirements.
