@@ -62,7 +62,7 @@ onenote
 
 
 
-## productivity AI
+## productivity AI App's
 
 - https://theresanaiforthat.com/setup/
 
@@ -73,7 +73,7 @@ onenote
 
 
 
-# productivity work like
+# productivity team work 
 
 ## Jitsi Meeting App
 
@@ -86,9 +86,9 @@ onenote
 
 # Setup Manual ( to be talked about)
 
-## Setup Meeting App for Teck Guys
+## Setup Meeting App for Tech Guys
 
-### text for improve Meeting apps etc
+### Booking for Meeting apps etc
 
 To create booking pages similar to Doodle using Nextcloud, you can leverage various open-source apps that integrate seamlessly with Nextcloud. Here are some of the recommended apps and plugins:
 
